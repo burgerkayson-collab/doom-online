@@ -2,7 +2,7 @@
 
 A complete, single-file WebAssembly/JavaScript port of **Crispy Doom** that runs classic DOOM and custom mods directly in a modern web browser with no installation required. 
 
-🌐 **Play Online:** [https://doom-online.js.org](https://doom-online.js.org) *(Netlify Mirror: [https://doom-online.netlify.app](https://doom-online.netlify.app))* 
+🌐 **Play Online:** [https://doom-online.eu.org](https://doom-online.eu.org) *(Netlify Mirror: [https://doom-online.netlify.app](https://doom-online.netlify.app))* 
 
 #### Features
 
